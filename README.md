@@ -5,9 +5,11 @@
 |Chih-Hua Chang|www.linkedin.com/in/chihhuachang1028|
 |Martina De Luca|www.linkedin.com/in/martina-de-luca-barcello/|
 
-The goal of this project is to build a computer vision application capable of capturing video of a person gesturing a word in one sign language and output the translation of that word to the second sign language. In addition, the program will also display the written form of the word in both languages to validate the results more easily.
+## Objective
 
-For example, using a video of a person communicating in Argentinian Sign Language (LSA), the program would generate the Spanish text. Then, the program would translate this message to English and display a video of the corresponding sign in American Sign Language (ASL).
+The goal of this project is to build a computer vision application capable of capturing video of a person signing a word in one sign language and output the translation of that word to the second sign language. In addition, the program will also display the written form of the word in both languages to validate the results more easily.
+
+For example, using a video of a person signing in Argentinian Sign Language, the program generates the Spanish text, translates this word to English, and displays a video of the corresponding sign in American Sign Language.
 
 ## This repository includes:
 
