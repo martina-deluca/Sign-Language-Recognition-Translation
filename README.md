@@ -1,4 +1,9 @@
 # Sign-Language-Recognition-Translation
+## Author
+|Name|Email|
+|-----|-----|
+|Chih-Hua Chang|www.linkedin.com/in/chihhuachang1028|
+|Martina de Luca|https://www.linkedin.com/in/martina-de-luca-barcello/|
 
 The goal of this project is to build a computer vision application capable of capturing video of a person gesturing a word in one sign language and output the translation of that word to the second sign language. In addition, the program will also display the written form of the word in both languages to validate the results more easily.
 
