@@ -1,6 +1,6 @@
 # Sign-Language-Recognition-Translation
 ## Author
-|Name|Email|
+|Name|LinkedIn|
 |-----|-----|
 |Chih-Hua Chang|www.linkedin.com/in/chihhuachang1028|
 |Martina de Luca|https://www.linkedin.com/in/martina-de-luca-barcello/|
